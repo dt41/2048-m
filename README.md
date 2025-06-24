@@ -31,7 +31,7 @@ An enhanced version of the classic 2048 game, now with even more fun features! T
 
 ## 🎯 Demo
 
-🎯 Play here: [http://2048.qei.me:9969/](http://85.194.243.117:9969/)
+🎯 Play here: [http://2048/](#)
 ![image](https://github.com/user-attachments/assets/d4fffe43-f970-4ce0-910e-a984d47f9353)
 
 
